@@ -16,3 +16,4 @@ log/
 target/
 data/
 impl/dependency-reduced-pom.xml
+/build/
